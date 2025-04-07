@@ -21,18 +21,19 @@ Highest Profit % by Product Line: Healthcare (49%), followed by Software (17%).
 
 📈 Monthly Trends:
 
-    Peak Revenue Months: Dec and April.
+  Peak Revenue Months: Dec and April.
 
-    Profit % is highest in November & December, indicating strong seasonal performance.
+  Profit % is highest in November & December, indicating strong seasonal performance.
 
 🌍 Region & Category Sales:
 
-    Africa has the highest overall sales, led by the IT and Sales categories.
+  Africa has the highest overall sales, led by the IT and Sales categories.
 
-    Operations and IT are consistently strong across most regions.
+  Operations and IT are consistently strong across most regions.
+    
 
                                                       📝 Recommendations:
-                                                      
+                                                                                                          
 Focus marketing and promotions on Healthcare and Software product lines due to high profit margins.
 
 Increase investment in Credit Card payment channels to boost conversion.
